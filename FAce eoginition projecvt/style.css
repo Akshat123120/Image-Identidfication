@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background: rebeccapurple;
+  text-align: center;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.heading{
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label{
+  font-size: 10px;
+  border-radius: 10px;
+  background-color: red;
+  padding: 5px;
+}
